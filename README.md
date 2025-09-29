@@ -15,42 +15,34 @@
 
 ## 📌 Project Overview
 This project focuses on analyzing and predicting **historical gold price trends** using advanced **machine learning regression models**.  
-Gold, being one of the most valuable and stable commodities, is influenced by multiple economic indicators.  
-The aim of this project is to **compare different regression models** and identify the best-performing one for accurate predictions.  
+Gold is influenced by multiple economic indicators, and accurate prediction helps investors, analysts, and policymakers make informed decisions.  
+
+The goal is to **compare multiple regression models** and identify the best-performing one.
 
 ---
 
 ## 🎯 Objectives
-- Preprocess and clean gold price datasets (handling missing values, duplicates, scaling).
-- Perform **Exploratory Data Analysis (EDA)** to uncover patterns and trends.
-- Apply **feature selection** techniques (Mutual Information).
-- Train and evaluate multiple ML models:
+- 🔹 Clean and preprocess gold price datasets (handle missing values, duplicates, scaling).  
+- 🔹 Perform **Exploratory Data Analysis (EDA)** to uncover hidden patterns.  
+- 🔹 Apply **feature selection techniques** (Mutual Information).  
+- 🔹 Train and evaluate ML models:  
   - Linear Regression  
   - Decision Tree Regressor  
   - Random Forest Regressor  
   - Gradient Boosting Regressor  
-  - Support Vector Regressor (SVR)
-- Compare model performance using **Mean Squared Error (MSE)**.
-- Provide insights into how economic factors (like USD to INR exchange rates) impact gold prices.
-
----
-
-## 🛠️ Tools & Technologies
-- **Programming Language:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Development Environment:** Jupyter Notebook / Google Colab / VS Code  
-- **Dataset Source:** Kaggle (Gold Price Historical Data)  
-- **Version Control:** GitHub  
+  - Support Vector Regressor (SVR)  
+- 🔹 Compare model performance using **Mean Squared Error (MSE)**.  
+- 🔹 Derive insights into economic factors influencing gold prices (e.g., USD to INR exchange rate).  
 
 ---
 
 ## 🧩 Methodology
-1. **Data Collection** – Historical gold price data with attributes like USD to INR, Average Gold Price per gram, and Gold Price per 10g in INR.  
-2. **Data Preprocessing** – Handling missing values, duplicates, outliers, and feature scaling.  
-3. **Feature Selection** – Mutual Information used to select most relevant predictors.  
-4. **Model Training** – Training different regression algorithms.  
-5. **Model Evaluation** – Using Mean Squared Error (MSE) for performance comparison.  
-6. **Visualization** – Heatmaps, histograms, bar plots, and error analysis.  
+1. **Data Collection** → Historical gold price data from Kaggle/financial sources.  
+2. **Data Preprocessing** → Handle missing values, remove duplicates, treat outliers, scale features.  
+3. **Feature Selection** → Use Mutual Information to find most relevant predictors.  
+4. **Model Training** → Implement multiple regression algorithms.  
+5. **Evaluation** → Compare models using **MSE**.  
+6. **Visualization** → Heatmaps, histograms, correlation plots, and bar charts.  
 
 ---
 
@@ -63,34 +55,20 @@ The aim of this project is to **compare different regression models** and identi
 | **Gradient Boosting** ✅    | **17.84**               | Best-performing model |
 | Support Vector Regressor   | 29.87                   | Sensitive to hyperparameters |
 
-➡️ **Gradient Boosting Regressor** emerged as the most effective model with the lowest error.  
+✅ **Gradient Boosting Regressor** achieved the lowest error → most accurate model.  
 
 ---
 
 ## 📈 Visualizations
-- 📌 Correlation Heatmap of features  
-- 📌 Residual Plots for model errors  
-- 📌 Bar plots comparing MSE values  
-- 📌 Distribution plots of gold price trends  
+- 📌 Correlation Heatmap → feature relationships  
+- 📌 Histograms → gold price distribution  
+- 📌 Residual Plots → model errors  
+- 📌 Bar Charts → comparing MSE values  
 
 ---
 
-## 🔮 Future Work
-- Include additional features like stock indices, oil prices, and geopolitical factors.  
-- Apply **LSTM (Long Short-Term Memory networks)** for time-series forecasting.  
-- Use **hyperparameter tuning** (GridSearchCV/RandomizedSearchCV) to optimize models.  
-- Expand dataset with global market data for broader predictions.  
+## 📂 Project Structure
 
----
-
-## 📚 References
-- [Scikit-learn Documentation](https://scikit-learn.org/)  
-- [Pandas Documentation](https://pandas.pydata.org/)  
-- [Seaborn Documentation](https://seaborn.pydata.org/)  
-- [Matplotlib](https://matplotlib.org/)  
-- [Kaggle Datasets](https://www.kaggle.com/)  
-
----
 
 ## 👨‍💻 Author
 **Tamilvanan I**  
